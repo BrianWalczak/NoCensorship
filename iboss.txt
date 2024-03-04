@@ -1,4 +1,0 @@
-! Block all requests to Iboss API (wildcard)
-||*.ibosscloud.com^
-||*.iboss.com^
-
