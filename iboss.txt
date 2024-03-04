@@ -1,6 +1,8 @@
+! Block all requests to Iboss API (wildcard)
 ||*.ibosscloud.com^
+||*.iboss.com^
 
-! Block all Iboss connection ports
+! Block all Iboss proxy ports
 ||127.0.0.1:9000^
 ||127.0.0.1:9001^
 ||127.0.0.1:9002^
