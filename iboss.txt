@@ -1,4 +1,4 @@
-||*.ibosscloud.com^
+!||*.ibosscloud.com^
 
 ! Block all Iboss connection ports
 ||127.0.0.1:9000^
