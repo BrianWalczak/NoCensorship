@@ -1,0 +1,2 @@
+! Block all requests to GoGuardian API (wildcard)
+||*.goguardian.com^
